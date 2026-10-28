@@ -10,10 +10,8 @@
   <img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=E70488" alt="Pandas"/>
   <img src="https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/CatBoost-0d1117?style=for-the-badge" alt="CatBoost"/>
   <img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge" alt="SQL"/>
   <img src="https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter"/>
   <img src="https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=0175C2" alt="Dart"/>
   <img src="https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF" alt="Kotlin"/>
